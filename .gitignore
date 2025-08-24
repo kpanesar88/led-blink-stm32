@@ -1,0 +1,16 @@
+# Build output
+/Debug/
+/Release/
+/*.elf
+/*.map
+/*.bin
+/*.hex
+
+# CubeIDE project settings
+/.cproject
+/.project
+/.mxproject
+/.settings/
+
+# VS Code settings
+/.vscode/
